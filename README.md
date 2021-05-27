@@ -19,3 +19,5 @@ NotFound.js: 1)If user goes to any other url, it says sorry not found and provid
 
 
 Navbar : it contains brand(Advertyzement) and link to get user
+
+index.css: contain css styling
